@@ -12,6 +12,8 @@
 <!--
 **sposmen/sposmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Page where I saw this Readme example: https://github.com/weebzone/weebzone/blob/main/README.md
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
