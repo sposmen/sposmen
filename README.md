@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 # 📊 GitHub Stats:
+<!--
 ![](https://github-readme-stats-sposmen.vercel.app/api?username=sposmen&hide_border=false&include_all_commits=true&count_private=true)<br/>
+-->
 ![](https://github-readme-stats-sposmen.vercel.app/?user=sposmen&hide_border=false)<br/>
 ![](https://github-readme-stats-sposmen.vercel.app/api/top-langs/?username=sposmen&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
