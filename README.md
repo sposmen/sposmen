@@ -5,7 +5,7 @@
 ![](https://github-readme-stats-sposmen.vercel.app/api?username=sposmen&hide_border=false&include_all_commits=true&count_private=true)<br/>
 -->
 ![](https://github-readme-stats-sposmen.vercel.app/?user=sposmen&hide_border=false)<br/>
-![](https://github-readme-stats-sposmen.vercel.app/api/top-langs/?username=sposmen&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-sposmen.vercel.app/api/top-langs/?username=sposmen&hide_border=false&include_all_commits=true&count_private=true&layout=compact&theme=transparent)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sposmen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
